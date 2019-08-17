@@ -1,0 +1,14 @@
+{
+    "name": "steedphp/steedphp",
+    "description": "steedphp",
+    "type": "swoole framework",
+    "license": "MIT",
+    "require": {
+        "steedphp/framework": "master-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
