@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controller;
+namespace App\Controller;
 
 class Index
 {
